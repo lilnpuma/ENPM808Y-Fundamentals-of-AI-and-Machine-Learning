@@ -11,7 +11,7 @@ Install basic dependancies to run the solutions:
 cd ENPM808Y-Fundamentals-of-AI-and-Machine-Learning-main
 pip install -r requirements.txt #Install necessary packages 
 ```
-Omce completed, run the files using the following command as an example, or use an IDE of your choice. 
+Once completed, run the files using the following command as an example, or use an IDE of your choice. 
 ```bash
 python filename.py
 ```
